@@ -73,26 +73,5 @@
 ####################################################################
 
 
-# import matplotlib.pyplot as plt
 
-# plt.figure(figsize=(10, 5))
 
-# # Trafic réseau
-# plt.subplot(1, 2, 1)
-# heures = [1, 2, 3, 4, 5]
-# trafic = [120, 200, 150, 300, 250]
-# plt.plot(heures, trafic)
-# plt.title("Trafic réseau")
-# plt.xlabel("Heures")
-# plt.ylabel("Paquets")
-
-# # Histogramme des tailles
-# plt.subplot(1, 2, 2)
-# tailles = [60, 70, 80, 90, 100, 110, 120, 130, 140, 150]
-# plt.hist(tailles, bins=5, color='skyblue', edgecolor='black')
-# plt.title("Taille des paquets")
-# plt.xlabel("Taille")
-# plt.ylabel("Fréquence")
-
-# plt.tight_layout()
-# plt.show()
