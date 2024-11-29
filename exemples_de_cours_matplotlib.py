@@ -59,15 +59,15 @@
 ####################################################################
 
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
-protocoles = ['HTTP', 'HTTPS', 'FTP', 'SSH']
-parts = [40, 35, 15, 10]
+# protocoles = ['HTTP', 'HTTPS', 'FTP', 'SSH']
+# parts = [40, 35, 15, 10]
 
-plt.pie(parts, labels=protocoles, 
-        autopct='%1.1f%%')
-plt.title("Répartition des protocoles réseau")
-plt.show()
+# plt.pie(parts, labels=protocoles, 
+#         autopct='%1.1f%%')
+# plt.title("Répartition des protocoles réseau")
+# plt.show()
 
 
 ####################################################################
